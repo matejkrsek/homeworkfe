@@ -1,0 +1,17 @@
+{
+  "product": "ukol_fe_maing01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "ukol_fe_maing01-hi": {},
+  "ukol_fe_maing01-server": {}
+}
